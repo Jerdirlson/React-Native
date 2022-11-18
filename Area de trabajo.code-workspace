@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../paradigma/WorkSpace de visual/Animales"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/AnimalesEstudioParcial"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/ExtractorDeID"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/Inventario"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/InventarioEstudioParcial"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/LaAlcancia"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/Peliculas"
+		},
+		{
+			"path": "../paradigma/WorkSpace de visual/ValidarNumeroTarjetaCredito"
+		}
+	]
+}
